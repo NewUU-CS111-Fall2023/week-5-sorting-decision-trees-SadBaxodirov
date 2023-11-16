@@ -5,8 +5,8 @@
  */
 
 #include <iostream>
-#include "task_2.h"
 #include "../include/bubbleSort.h"
+#include "../include/task_2.h"
 #include "../include/task_3.h"
 #include "../include/task_4.h"
 using namespace std;
