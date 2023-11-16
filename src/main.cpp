@@ -5,7 +5,7 @@
  */
 
 #include <iostream>
-#include "task_1.h"
+#include "../include/task_2.h"
 #include "../include/bubbleSort.h"
 using namespace std;
 
